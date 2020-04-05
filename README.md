@@ -1,4 +1,4 @@
-HelloWorld Servlet example with corresponding Dockerfile
+HelloWorld Servlet example with corresponding Dockerfile. Changing it.
 
 Use Maven Build first to create war file in Target folder.
 
